@@ -53,7 +53,7 @@ Cuenta de Telegram válida
 Clona el repositorio:
 
 bash
-git clone https://github.com/tu-usuario/LOCKGUARD.git
+git clone https://github.com/kdea1/Lockguard.git
 cd LOCKGUARD
 Instala las dependencias:
 
