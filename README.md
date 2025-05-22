@@ -1,5 +1,8 @@
 # Lockguard
 
+![loguard23](https://github.com/user-attachments/assets/906527d2-46d7-4dce-8de8-2c5bf7921e5d)
+
+
 🔐 LOCKGUARD - Sistema Avanzado de Seguridad para Telegram
 LOCKGUARD es una herramienta profesional de monitoreo y protección para Telegram que combina análisis de tráfico en tiempo real con verificación avanzada de amenazas, diseñada para usuarios que requieren máxima seguridad en sus comunicaciones.
 
