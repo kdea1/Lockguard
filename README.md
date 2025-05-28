@@ -44,6 +44,7 @@ Registro detallado de actividades
 Personalización de temas y apariencia
 
 ⚙️ Requisitos Técnicos
+
 Python 3.8+
 
 Wireshark/tshark instalado
@@ -71,19 +72,25 @@ Configura tus credenciales en la interfaz gráfica
 Ejecuta la aplicación:
 
 bash
+
 python lockguard.py
+
 📜 Licencia
 Este proyecto está bajo licencia MIT. Ver el archivo LICENSE para más detalles.
 
+
 📞 Soporte y Contacto
 Para reportar problemas o sugerencias, abre un issue en el repositorio o únete a nuestra comunidad en HackingTeam.
+
 
 python
 # Disclaimer de Seguridad
 import hashlib
 
+
 """
 ⚠️ ADVERTENCIA IMPORTANTE:
+
 
 1. Esta herramienta está diseñada únicamente para propósitos legítimos de seguridad.
 2. El uso inadecuado de este software puede violar los Términos de Servicio de Telegram.
@@ -99,6 +106,7 @@ def secure_hash(data):
     return hashlib.sha256(data.encode()).hexdigest()
 
 """
+
 🔒 Buenas prácticas de seguridad:
 - Nunca compartas tus API keys
 - Usa siempre verificación en dos pasos
