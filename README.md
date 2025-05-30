@@ -56,22 +56,25 @@ Cuenta de Telegram válida
 🚀 Instalación
 Clona el repositorio:
 
-bash
+
 git clone https://github.com/kdea1/Lockguard.git
+
 
 cd LOCKGUARD
 
+
 Instala las dependencias:
 
-bash
+
 
 pip install -r requirements.txt
+
 
 Configura tus credenciales en la interfaz gráfica
 
 Ejecuta la aplicación:
 
-bash
+
 
 python lockguard.py
 
